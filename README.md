@@ -1,0 +1,5 @@
+- 👋 Hi, I’m justin yong
+- 👀 I’m interested in coding and ctf
+- 🌱 I’m currently learning hacking
+- 💞️ I’m looking to collaborate on nothing much.
+- 📫 How to reach me justinyongmahui@gmail.com
